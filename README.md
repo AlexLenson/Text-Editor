@@ -6,7 +6,7 @@ This project is a Progressive Web Application (PWA) text editor that enables use
 - IndexedDB Storage: Utilizes IndexedDB to store and retrieve content, ensuring data persistence
 - Service Worker: Incorporates a service worker using Workbox to enable offline caching of static assets
 
-## API Endpoints Visualization
+## PWA Text Editor Visualization
 Here is a visualization of the text editor running in the browser!
 
 ![screenshot](./client/src/images/text-editor.png)
